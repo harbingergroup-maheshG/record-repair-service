@@ -1,4 +1,4 @@
-package com.myco.record_repair_service;
+package com.myco.record_repair;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;
